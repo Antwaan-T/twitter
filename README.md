@@ -2,7 +2,7 @@
 
 **TrustTwitter** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
 
-Time spent: **50** hours spent in total
+Time spent: **24** hours spent in total
 
 ## User Stories
 
@@ -38,7 +38,6 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-https://i.imgur.com/R3ueTyh.gif
 
 ## Notes
 
