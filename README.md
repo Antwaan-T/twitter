@@ -1,6 +1,6 @@
 # Project 5 - *Twitter*
 
-**TrustTwitter** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
+**Twitter** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
 
 Time spent: **24** hours spent in total
 
@@ -66,7 +66,7 @@ List an 3rd party libraries, icons, graphics, or other assets you used in your a
     See the License for the specific language governing permissions and
     limitations under the License.
 
-# Project 6 - *TrustTwitter*
+# Project 6 - *Twitter*
 
 Time spent: **16** hours spent in total
 
